@@ -2,9 +2,7 @@
 template: BlogPost
 path: /supreme-court-justice
 date: 2020-10-06T09:55:17.722Z
-title: >-
-  Hello expresses shock and displeasure at 13-year-long stay in custodial death
-  case
+title: Sc expresses shock Today
 metaDescription: >-
   In an order delivered recently, the court directed the trial court to proceed
   with the trial pertaining to the death of the petitioner’s father almost on a
